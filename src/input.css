@@ -2,11 +2,75 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-    font-family: 'Roboto', sans-serif;
+
+
+.breakfast{
+    background-image: url(/img/omlet.jpg);
+     background-size: cover; 
+    background-position: center;
 }
 
-.logo{
+.main-dish{
+    background-image: url(/img/main-dish.jpg);
+     background-size: cover; 
+    background-position: center;
+}
+
+.hot-beverage{
+    background-image: url(/img/hot-b.jpg);
+     background-size: cover; 
+    background-position: center;
+}
+
+.cold-beverage{
+    background-image: url(/img/cold-b.jpg);
+     background-size: cover; 
+    background-position: center;
+}
+
+.dessert{
+    background-image: url(/img/dessert.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+.salad{
+    background-image: url(/img/salad-2.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+i{
+    color: rgb(193, 53, 139);
+}
+
+.coffees{
+    background-image: url(/img/coffee.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+.appetiser{
+    background-image: url(/img/chicken-tender.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+.nargile{
+    background-image: url(/img/nargile.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+.title-font{
+    font-family: 'Caveat', cursive;
+}
+
+.text-font{
+    font-family: 'Playfair', serif;
+}
+
+/* .logo{
     border-radius: 85%;
     border-color: #ffb700;
 }
@@ -46,8 +110,8 @@
     background-image: url(/img/bg-main-2.png);
     width: 100%;
     height: 100vh;
-    background-size: cover; /* Optional: Adjust as needed */
-    background-repeat: no-repeat; /* Optional: Adjust as needed */
+    background-size: cover;
+    background-repeat: no-repeat; 
     background-position: center center;
 }
 
@@ -81,7 +145,7 @@
 
 }
 
-/* Float Img */
+
 
 .float-img{
     transform: translateX(0px);
@@ -101,7 +165,6 @@
 }
 
 
-/* Slide in down Down */
 
 .slideInDown {
     -webkit-animation-name: slideInDown;
@@ -134,7 +197,6 @@
     }
     } 
 
-    /* Zoom In */
 
     .zoomIn {
         -webkit-animation-name: zoomIn;
@@ -166,7 +228,6 @@
         } 
 
 
-        /* tada */
         .tada {
             -webkit-animation-name: tada;
             animation-name: tada;
@@ -218,7 +279,7 @@
             -webkit-transform: scale3d(1, 1, 1);
         transform: scale3d(1, 1, 1);
     }
-} 
+}  */
 
             
 
