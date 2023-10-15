@@ -70,6 +70,12 @@ i{
     font-family: 'Playfair', serif;
 }
 
+.hookah-bg{
+    background-image: url(/img/hookah.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
 /* .logo{
     border-radius: 85%;
     border-color: #ffb700;
