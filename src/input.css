@@ -57,7 +57,7 @@ i{
 }
 
 .nargile{
-    background-image: url(/img/nargile.jpg);
+    background-image: url(/img/hookah-bg-2.jpg);
     background-size: cover; 
     background-position: center;
 }
@@ -74,219 +74,144 @@ i{
     background-image: url(/img/hookah.jpg);
     background-size: cover; 
     background-position: center;
-}
-
-/* .logo{
-    border-radius: 85%;
-    border-color: #ffb700;
-}
-
-.h1-font{
-    font-family: 'Gothic A1', sans-serif;
-    color: #FF9A00;
-}
-
-.info-text{
-    font-family: 'Bitter', serif;
-}
-
-
-.main-page-title{
-    font-family: 'Gothic A1', sans-serif;
-    color: #ebaa05;
-    border-color: #f68a1e;
-}
-
-
-.text-red-rgb{
-    color:rgb(251, 0, 79) ;
-}
-
-.text-footer-rgb{
-    color: #ffb700;
-}
-
-
-.info-img{
-    filter: drop-shadow(10px 10px 10px orange);
-}
-
-.main-page{
-    margin-top: 90px;
-    background-image: url(/img/bg-main-2.png);
-    width: 100%;
-    height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat; 
-    background-position: center center;
-}
-
-
-.bg-color{
-   background-color: #333;
-}
-
-.bg-color-2{
-    background-color: #444;
-}
-
-.bg-color-3{
-    background-color: #555;
-}
-
-.bg-color-4{
-    background-color: #666;
-}
-
-.bg-color-5{
-    background-color: #777;
-}
-
-.border-color{
-    border-color:#FF4D00 ;
-}
-
-.h1-font-menu{
-    font-family: 'Permanent Marker', cursive;
 
 }
-
-
-
-.float-img{
-    transform: translateX(0px);
-    animation: float 6s ease-in-out infinite;
+/*  */
+.appetisers-bg{
+    background-image: url(/img/cıtır-tavuk-bg-div.webp);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.9;
 }
 
-@keyframes float {
-    0%{
-        transform: translateY(0px);
-    }
-    50%{
-        transform: translateY(-30px);
-    }
-    100%{
-        transform: translateY(0px);
-    }
+.breakfast-bg-div{
+    background-image: url(/img/breakfast-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;
 }
 
+.tost-bg-div{
+    background-image: url(/img/frenchtost-bf.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;
+}
 
+.hamburger-bg-div{
+    background-image: url(/img/hamburger-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;
+}
 
-.slideInDown {
-    -webkit-animation-name: slideInDown;
-    animation-name: slideInDown;
-    -webkit-animation-duration: 1s;
-    animation-duration: 1s;
-    -webkit-animation-fill-mode: both;
-    animation-fill-mode: both;
-    }
-    @-webkit-keyframes slideInDown {
-    0% {
-    -webkit-transform: translateY(-100%);
-    transform: translateY(-100%);
-    visibility: visible;
-    }
-    100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    }
-    }
-    @keyframes slideInDown {
-    0% {
-    -webkit-transform: translateY(-100%);
-    transform: translateY(-100%);
-    visibility: visible;
-    }
-    100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-    }
-    } 
+.pizza-bg-div{
 
+    background-image: url(/img/pizza-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
 
-    .zoomIn {
-        -webkit-animation-name: zoomIn;
-        animation-name: zoomIn;
-        -webkit-animation-duration: 4s;
-        animation-duration: 4s;
-        -webkit-animation-fill-mode: both;
-        animation-fill-mode: both;
-        }
-        @-webkit-keyframes zoomIn {
-        0% {
-        opacity: 0;
-        -webkit-transform: scale3d(.3, .3, .3);
-        transform: scale3d(.3, .3, .3);
-        }
-        50% {
-        opacity: 1;
-        }
-        }
-        @keyframes zoomIn {
-        0% {
-        opacity: 0;
-        -webkit-transform: scale3d(.3, .3, .3);
-        transform: scale3d(.3, .3, .3);
-        }
-        50% {
-        opacity: 1;
-        }
-        } 
+.pasta-bg-div{
+    background-image: url(/img/pasta-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
 
+.main-bg-div{
+    background-image: url(/img/tavuk-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
 
-        .tada {
-            -webkit-animation-name: tada;
-            animation-name: tada;
-            -webkit-animation-duration: 1s;
-            animation-duration: 1s;
-            -webkit-animation-fill-mode: both;
-            animation-fill-mode: both;
-            }
-            @-webkit-keyframes tada {
-            0% {
-            -webkit-transform: scale3d(1, 1, 1);
-            transform: scale3d(1, 1, 1);
-            }
-            10%, 20% {
-            -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
-            transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
-            }
-            30%, 50%, 70%, 90% {
-            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
-            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
-            }
-            40%, 60%, 80% {
-            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
-            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
-            }
-            100% {
-            -webkit-transform: scale3d(1, 1, 1);
-            transform: scale3d(1, 1, 1);
-            }
-            }
-            @keyframes tada {
-            0% {
-            -webkit-transform: scale3d(1, 1, 1);
-            transform: scale3d(1, 1, 1);
-            }
-            10%, 20% {
-            -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
-            transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
-            }
-            30%, 50%, 70%, 90% {
-            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
-            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
-            }
-            40%, 60%, 80% {
-            -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
-            transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
-            }
-            100% {
-            -webkit-transform: scale3d(1, 1, 1);
-        transform: scale3d(1, 1, 1);
-    }
-}  */
+.diger-bg-div{
+    background-image: url(/img/bitki-bg-div.webp);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
 
-            
+.diger-diger-bg-div{
+    background-image: url(/img/bardak-cay-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
 
-          
+.sıcak-kahve-bg-div{
+    background-image: url(/img/es-bg-div.webp);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
+
+.soguk-kahve-bg-div{
+    background-image: url(/img/ccoffee-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
+
+.geleneksel-bg-div{
+    background-image: url(/img/Türk-Kahvesi-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
+
+.frozen-bg-div{
+    background-image: url(/img/frozen-bg-div.jpg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
+
+.milk-bg-div{
+    background-image: url(/img/milkshake-bg-div.webp);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
+
+.frappe-bg-div{
+    background-image: url(/img/frappe-bg-div.webp);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
+
+.kok-bg-div{
+    background-image: url(/img/kokteyl-bg-div.jpeg);
+    background-size: cover; 
+    background-position: center;
+    opacity: 0.8;    
+}
+
+/*  */
+.hamburger{
+    background-image: url(/img/main-dish.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+.pizza{
+    background-image: url(/img/pizza-margherita-tarifi.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+.pasta{
+    background-image: url(/img/salcali-makarna.jpg);
+    background-size: cover; 
+    background-position: center;
+}
+
+.soup{
+    background-image: url(/img/soup.webp);
+    background-size: cover; 
+    background-position: center;
+}
+
