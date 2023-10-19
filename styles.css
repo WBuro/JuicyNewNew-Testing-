@@ -1113,6 +1113,20 @@ i{
   opacity: 0.8;
 }
 
+.dessert-bg{
+  background-image: url(/img/dessert-bg-3.jpg);
+  background-size: cover;
+  background-position: center;
+  opacity:1;
+}
+
+.drink-bg-div{
+  background-image: url(/img/drink-bg-div-2.png);
+  background-size: cover;
+  background-position: center;
+  opacity:1;
+}
+
 /*  */
 
 .hamburger{
