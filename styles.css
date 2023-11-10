@@ -1002,7 +1002,7 @@ i{
 /*  */
 
 .appetisers-bg{
-  background-image: url(/img/cıtır-tavuk-bg-div.webp);
+  background-image: url(/img/patates__tava.jpg);
   background-size: cover;
   background-position: center;
   opacity: 0.9;
@@ -1016,10 +1016,10 @@ i{
 }
 
 .tost-bg-div{
-  background-image: url(/img/frenchtost-bf.jpg);
+  background-image: url(/img/ffrench__toast.png);
   background-size: cover;
-  background-position: center;
-  opacity: 0.8;
+  background-position: right;
+  opacity: 1;
 }
 
 .hamburger-bg-div{
@@ -1058,14 +1058,14 @@ i{
 }
 
 .diger-diger-bg-div{
-  background-image: url(/img/bardak-cay-bg-div.jpg);
+  background-image: url(/img/diger_cay.jpg);
   background-size: cover;
   background-position: center;
   opacity: 0.8;
 }
 
 .sıcak-kahve-bg-div{
-  background-image: url(/img/es-bg-div.webp);
+  background-image: url(/img/sara-ciungan-BPbFXkiDNYU-unsplash.jpg);
   background-size: cover;
   background-position: center;
   opacity: 0.8;
@@ -1075,11 +1075,11 @@ i{
   background-image: url(/img/ccoffee-bg-div.jpg);
   background-size: cover;
   background-position: center;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .geleneksel-bg-div{
-  background-image: url(/img/Türk-Kahvesi-bg-div.jpg);
+  background-image: url(/img/turkish__coffee.webp);
   background-size: cover;
   background-position: center;
   opacity: 0.8;
