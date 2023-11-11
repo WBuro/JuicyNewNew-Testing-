@@ -1009,7 +1009,7 @@ i{
 }
 
 .breakfast-bg-div{
-  background-image: url(/img/breakfast-bg-div.jpg);
+  background-image: url(/img/pankek.webp);
   background-size: cover;
   background-position: center;
   opacity: 0.8;
@@ -1030,24 +1030,23 @@ i{
 }
 
 .pizza-bg-div{
-  background-image: url(/img/pizza-bg-div.jpg);
+  background-image: url(/img/pizzzza.jpg);
   background-size: cover;
-  background-position: center;
-  opacity: 0.8;
+  background-position: top;
+  opacity: 1;
 }
 
 .pasta-bg-div{
   background-image: url(/img/pasta-bg-div.jpg);
   background-size: cover;
   background-position: center;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .main-bg-div{
   background-image: url(/img/tavuk-bg-div.jpg);
   background-size: cover;
   background-position: center;
-  opacity: 0.8;
 }
 
 .diger-bg-div{
