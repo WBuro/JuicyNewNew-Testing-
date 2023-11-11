@@ -1023,16 +1023,16 @@ i{
 }
 
 .hamburger-bg-div{
-  background-image: url(/img/hamburger-bg-div.jpg);
+  background-image: url(/img/hhamburgerr.jpg);
   background-size: cover;
-  background-position: center;
-  opacity: 0.8;
+  background-position: top center;
+  opacity: 1;
 }
 
 .pizza-bg-div{
-  background-image: url(/img/pizzzza.jpg);
+  background-image: url(/img/aapizza.jpg);
   background-size: cover;
-  background-position: top;
+  background-position: center;
   opacity: 1;
 }
 
@@ -1085,10 +1085,10 @@ i{
 }
 
 .frozen-bg-div{
-  background-image: url(/img/frozen-bg-div.jpg);
+  background-image: url(/img/fffrozen.jpg);
   background-size: cover;
-  background-position: center;
-  opacity: 0.8;
+  background-position: top center;
+  opacity: 1 ;
 }
 
 .milk-bg-div{
@@ -1099,10 +1099,10 @@ i{
 }
 
 .frappe-bg-div{
-  background-image: url(/img/frappe-bg-div.webp);
+  background-image: url(/img/fffrappe.jpg);
   background-size: cover;
-  background-position: center;
-  opacity: 0.8;
+  background-position:  center;
+  opacity: 1;
 }
 
 .kok-bg-div{
@@ -1113,9 +1113,9 @@ i{
 }
 
 .dessert-bg{
-  background-image: url(/img/dessert-bg-3.jpg);
+  background-image: url(/img/Cheesecakess.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: bottom center ;
   opacity:1;
 }
 
