@@ -114,7 +114,7 @@ i{
 }
 
 .pasta-bg-div{
-    background-image: url(/img/pasta-bg-div.jpg);
+    background-image: url(/img/passtaa.jpg);
     background-size: cover; 
     background-position: center;
     opacity: 1;    
@@ -149,7 +149,7 @@ i{
 }
 
 .soguk-kahve-bg-div{
-    background-image: url(/img/ccoffee-bg-div.jpg);
+    background-image: url(/img/Ice_Mocha.jpg);
     background-size: cover; 
     background-position: center;
     opacity: 1;    
@@ -220,7 +220,7 @@ i{
 .pasta{
     background-image: url(/img/salcali-makarna.jpg);
     background-size: cover; 
-    background-position: center;
+    background-position:  center;
 }
 
 .soup{
