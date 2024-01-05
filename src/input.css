@@ -59,7 +59,7 @@ i{
 .nargile{
     background-image: url(/img/hookah-bg-2.jpg);
     background-size: cover; 
-    background-position: center;
+    background-position: bottom;
 }
 
 .title-font{
@@ -71,7 +71,7 @@ i{
 }
 
 .hookah-bg{
-    background-image: url(/img/hookah.jpg);
+    background-image: url(/img/new-nargile.jpg);
     background-size: cover; 
     background-position: center;
 
