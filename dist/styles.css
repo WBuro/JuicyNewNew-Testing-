@@ -730,10 +730,6 @@ video {
   height: auto;
 }
 
-.w-36 {
-  width: 9rem;
-}
-
 .w-48 {
   width: 12rem;
 }
@@ -893,10 +889,6 @@ video {
 
 .uppercase {
   text-transform: uppercase;
-}
-
-.lowercase {
-  text-transform: lowercase;
 }
 
 .italic {
