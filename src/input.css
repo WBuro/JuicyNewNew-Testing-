@@ -62,6 +62,16 @@ i{
     background-position: bottom;
 }
 
+.cerez{
+    background-image: url(/img/popcorn.jpg);
+    background-size: cover; 
+    background-position: bottom;
+}
+.cerez-bg{
+    background-image: url(/img/kuruyemiş.webp);
+    background-size: cover; 
+    background-position: center;
+}
 .title-font{
     font-family: 'Caveat', cursive;
 }
